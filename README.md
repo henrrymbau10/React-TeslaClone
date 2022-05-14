@@ -2,4 +2,4 @@
 
 Echa un vistazo al resultado del proyecto en este enlace:
 
-https://spotatwork.vercel.app/
+https://react-tesla-clone.vercel.app/
